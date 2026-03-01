@@ -4,6 +4,7 @@
 # Allow git config files
 !.gitignore
 !.gitattributes
+!requirements.txt
 
 # Allow mmgroundingdino directory
 !mmgroundingdino/
