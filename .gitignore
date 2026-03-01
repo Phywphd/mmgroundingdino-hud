@@ -1,0 +1,14 @@
+# Ignore everything by default
+*
+
+# Allow git config files
+!.gitignore
+!.gitattributes
+
+# Allow mmgroundingdino directory
+!mmgroundingdino/
+!mmgroundingdino/**
+
+# Allow dataset
+!my_dataset/
+!my_dataset/**
